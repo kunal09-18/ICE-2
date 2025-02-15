@@ -6,7 +6,7 @@ phases:
 
     commands:
 
-      - npm installee
+      - npm install
 
   build:
 
